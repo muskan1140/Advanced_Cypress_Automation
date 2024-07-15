@@ -1,0 +1,7 @@
+  {
+    "login button" : "xpath, //*[@type='button']",
+    "submit button" : "xpath, (//*[@type='submit'])[2]",
+    "logo" : "xpath, (//*[@type='submit'])[2]"
+
+  }
+
